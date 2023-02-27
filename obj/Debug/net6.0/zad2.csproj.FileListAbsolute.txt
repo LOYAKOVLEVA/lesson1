@@ -1,0 +1,15 @@
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.csproj.AssemblyReference.cache
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.AssemblyInfoInputs.cache
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.AssemblyInfo.cs
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.csproj.CoreCompileInputs.cache
+/Users/larisayakovleva/lesson1/zad2/bin/Debug/net6.0/zad2
+/Users/larisayakovleva/lesson1/zad2/bin/Debug/net6.0/zad2.deps.json
+/Users/larisayakovleva/lesson1/zad2/bin/Debug/net6.0/zad2.runtimeconfig.json
+/Users/larisayakovleva/lesson1/zad2/bin/Debug/net6.0/zad2.dll
+/Users/larisayakovleva/lesson1/zad2/bin/Debug/net6.0/zad2.pdb
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.dll
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/refint/zad2.dll
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.pdb
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/zad2.genruntimeconfig.cache
+/Users/larisayakovleva/lesson1/zad2/obj/Debug/net6.0/ref/zad2.dll
